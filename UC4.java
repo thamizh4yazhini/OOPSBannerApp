@@ -14,6 +14,7 @@ public class UC4{
         };
 
 
+            for (String line : bannerLines) {
             System.out.println(line);
         }
     }
